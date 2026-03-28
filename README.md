@@ -16,11 +16,6 @@ This project analyzes historical AQI data (2020–2025) and predicts AQI levels 
 - ggplot2
 - Shiny
 
-## 📁 Structure
-- data/ → dataset
-- scripts/ → analysis & model
-- app/ → shiny app
-
 ## 📈 Output
 - District-wise AQI trends
 - Top polluted districts prediction
